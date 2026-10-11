@@ -4,6 +4,9 @@ I build small, useful things for people software tends to forget, mostly at hack
  
 ## What I've built
  
+**[Pinch](https://pinch-htpl.onrender.com)** · Build With AI: Basics 2026 (Devpost)
+Interviews your grandparent while they cook, so "a pinch", "a splash" and "until it smells right" get pinned down while their hands are still in the pot. It never guesses an amount: Gemini decides what to ask, and plain server code checks every amount on the final card against what the cook actually said. Anything it can't trace becomes "amount unknown" on an honest Still unknown list.
+ 
 **[Lead Time](https://lead-time-cjnn.onrender.com)** · ForgeHacks Online 2026
 Shows small Singapore food businesses which overseas food trends are heading their way, whether their kitchen can make them, and how to price, stock and launch them first. It grades its own forecasts and shows the result: of 4 arrival dates it could strictly check, 1 landed in its window. The model drafts and judges, but plain Python owns every number, and answers with unsupported claims get rejected and rewritten.
  
