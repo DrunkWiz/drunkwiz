@@ -15,10 +15,10 @@ I build small AI products for people software tends to forget, and keep the mode
 
 ## Start Here
 
+- 📈 **[Lead Time](https://lead-time-cjnn.onrender.com)** (🏆 ForgeHacks 2026, Business + AI track) - which overseas food trends are heading to Singapore
 - 💳 **Recall** (🥈 Amex AI Hackathon 2026) - figures out the charge you forgot, but is never sure for you
 - 🍜 **[Voucher Kaki](https://simplify-ai-hackathon.vercel.app)** (🏁 SimplifyNext IGNITE finalist) - CDC-voucher eateries near you, in four languages
 - 🛒 **[AgentShopper](https://agentshopper.streamlit.app/)** (NUS LifeHack 2026) - makes catalogues readable to AI shoppers, then proves it
-- 📈 **[Lead Time](https://lead-time-cjnn.onrender.com)** (ForgeHacks 2026) - which overseas food trends are heading to Singapore
 - 🧂 **[Pinch](https://pinch-htpl.onrender.com)** (Build With AI: Basics 2026) - asks grandma how much "a pinch" is, mid-cook
 
 ## How I Build
