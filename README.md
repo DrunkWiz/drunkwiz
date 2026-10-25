@@ -56,5 +56,14 @@ I build small AI products for people software tends to forget, and keep the mode
 ## Profile Views
 
 <p align="center">
-  <img alt="Profile views, counted in mahjong tiles" src="https://count.getloli.com/@DrunkWiz-profile?name=DrunkWiz-profile&theme=booru-mjg&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto">
+  <img alt="Profile views, counted in mahjong tiles" title="Profile views, counted in mahjong tiles. Joker = 0, 1 to 3 are characters, 4 to 6 circles, 7 to 9 bamboo." src="https://count.getloli.com/@DrunkWiz-profile?name=DrunkWiz-profile&theme=booru-mjg&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto">
 </p>
+
+<details>
+<summary>What are these tiles?</summary>
+
+<br>
+
+It's a view counter. Each tile is one digit of how many times this profile has been viewed, read left to right. The Joker is 0, the characters (一萬 二萬 三萬) are 1 to 3, the circles are 4 to 6, and the bamboo is 7 to 9.
+
+</details>
