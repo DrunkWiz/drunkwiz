@@ -53,6 +53,8 @@ I build small AI products for people software tends to forget, and keep the mode
 
 </details>
 
+## Profile Views
+
 <p align="center">
   <img alt="Profile views, counted in mahjong tiles" src="https://count.getloli.com/@DrunkWiz-profile?name=DrunkWiz-profile&theme=booru-mjg&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto">
 </p>
