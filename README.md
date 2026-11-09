@@ -26,7 +26,8 @@ I build small AI products for people software tends to forget, and keep the mode
 - 🫖 **[CareLoop SG](https://careloop-sg-qloo.onrender.com)** (Qloo Agentic Hackathon) - plans good days for seniors with high blood pressure around what they love
 - ✨ **[Glowline](https://glowline.onrender.com)** (YouCam Skin AI Hackathon) - tells you if a skincare product is actually working, from your own photos
 - 💸 **[Settle](https://github.com/DrunkWiz/paypal-hackathon)** (PayPal hackathon) - resolves shop complaints; the model writes the reply, code decides every dollar
-- 🕯️ **[git seance](https://github.com/DrunkWiz/git-seance)** (side project) - lets a deleted function tell its story, through a model on your own laptop
+- 🕯️ **[git seance](https://github.com/DrunkWiz/git-seance)** (Hacktoberfest 2026, week 4) - lets a deleted function tell its story, through a model on your own laptop
+- 🛫 **[Born to Route](https://saf-kalimantan-prsbklhdba-as.a.run.app/)** (team build) - plans a sustainable aviation fuel network for Kalimantan at the lowest delivered cost
 
 ## How I Build
 
