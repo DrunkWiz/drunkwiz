@@ -15,19 +15,15 @@ I build small AI products for people software tends to forget, and keep the mode
 
 ## Start Here
 
-- 📈 **[Lead Time](https://lead-time-app.onrender.com)** (🏆 ForgeHacks 2026, Business + AI track) - which overseas food trends are heading to Singapore · [hackathon version](https://lead-time-cjnn.onrender.com)
+- 📈 **[Lead Time](https://lead-time-app.onrender.com)** (🏆 ForgeHacks 2026, Business + AI track) - which overseas food trends are heading to Singapore
 - 💳 **Recall** (🥈 Amex AI Hackathon 2026) - figures out the charge you forgot, but is never sure for you
 - 🍜 **[Voucher Kaki](https://simplify-ai-hackathon.vercel.app)** (🏁 SimplifyNext IGNITE finalist) - CDC-voucher eateries near you, in four languages
-- 🛒 **[AgentShopper](https://agentshopper.streamlit.app/)** (NUS LifeHack 2026) - makes catalogues readable to AI shoppers, then proves it
-- 🧂 **[Pinch](https://pinch-htpl.onrender.com)** (Build With AI: Basics 2026) - asks grandma how much "a pinch" is, mid-cook
-- 🔎 **[ChainCheck](https://chaincheck-dxj5.onrender.com)** (WarriorHacks 2.0) - checks an investment offer against the scam playbook, and never calls anything safe
-- 📄 **[Clause](https://clause-p7uk.onrender.com)** (ML Build Challenge 3) - drafts a health insurance appeal where every sentence quotes the plan
-- 🥫 **[Fridge Rescue](https://drunkwiz.github.io/fridge-rescue/)** (RevenueCat Shipaton 2026) - food you save feeds a pixel pet; surplus goes to a food bank
-- 🫖 **[CareLoop SG](https://careloop-sg-qloo.onrender.com)** (Qloo Agentic Hackathon) - plans good days for seniors with high blood pressure around what they love
-- ✨ **[Glowline](https://glowline.onrender.com)** (YouCam Skin AI Hackathon) - tells you if a skincare product is actually working, from your own photos
-- 💸 **[Settle](https://github.com/DrunkWiz/paypal-hackathon)** (PayPal hackathon) - resolves shop complaints; the model writes the reply, code decides every dollar
-- 🕯️ **[git seance](https://github.com/DrunkWiz/git-seance)** (Hacktoberfest 2026, week 4) - lets a deleted function tell its story, through a model on your own laptop
-- 🛫 **[Born to Route](https://saf-kalimantan-prsbklhdba-as.a.run.app/)** (team build) - plans a sustainable aviation fuel network for Kalimantan at the lowest delivered cost
+- 📄 **[Clause](https://clause-p7uk.onrender.com)** - drafts a health insurance appeal where every sentence quotes the plan
+- 🛫 **[Born to Route](https://saf-kalimantan-prsbklhdba-as.a.run.app/)** - plans a sustainable aviation fuel network for Kalimantan at the lowest delivered cost
+
+**More builds:** [CareLoop SG](https://careloop-sg-qloo.onrender.com) · [Glowline](https://glowline.onrender.com) · [Settle](https://github.com/DrunkWiz/paypal-hackathon) · [ChainCheck](https://chaincheck-dxj5.onrender.com) · [Pinch](https://pinch-htpl.onrender.com) · [AgentShopper](https://agentshopper.streamlit.app/) · [Fridge Rescue](https://drunkwiz.github.io/fridge-rescue/) · [git seance](https://github.com/DrunkWiz/git-seance)
+
+🧾 **[All 13, with screens and write-ups →](https://drunkwiz.github.io/projects.html)**
 
 ## How I Build
 
